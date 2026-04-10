@@ -1,12 +1,4 @@
 # 💫 About Me:
 👋 Hi, I'm Malik<br><br>💡 Doctor | SaaS Developer | AI Builder<br><br>I combine medicine and technology to build practical tools that solve real-world problems — especially in healthcare, education, and business automation.<br><br>🚀 About Me<br>🩺 MBBS Doctor with clinical & administrative experience<br>💻 Self-taught developer building full-stack SaaS apps<br>🧠 Focused on AI-powered tools & automation<br>🌍 Working on solutions for healthcare, education, and business systems<br>📈 Interested in scalable SaaS and real-world impact<br>🛠️ My Projects<br>🧠 StudyPrometric<br><br>🔗 https://www.studyprometric.com<br><br>MCQ-based learning platform for doctors<br>AI-powered explanations<br>Daily MCQs + progress tracking<br>Target: Saudi Medical License Exam<br>💊 PharmaSys (Pharmacy ERP)<br><br>🔗 https://pharmasys.site<br><br>Full pharmacy management system<br>Inventory + billing + reporting<br>Designed for ZATCA compliance (Phase 2 ready)<br>Built for real pharmacy business use<br>🔳 QR SaaS Platform<br>Dynamic QR code generator system<br>Use cases:<br>Patient records<br>Business links<br>Smart redirection systems<br>Focus on scalable SaaS architecture<br>⚡ Other Projects<br>📥 Video Downloader Web App<br>📊 MCQ Generator Systems<br>🧾 ERP & Automation Tools<br>🌐 Experimental SaaS Ideas<br>⚙️ Tech Stack<br>🧩 Frontend<br>React<br>Next.js (learning & migrating)<br>Tailwind CSS<br>🔧 Backend<br>Supabase (Database + Auth + Edge Functions)<br>Node.js<br>🤖 AI & Tools<br>OpenAI APIs<br>Ollama (Local Models - Qwen etc.)<br>Prompt Engineering<br>🧰 Dev Tools<br>Git & GitHub<br>Dyad (No-code/AI builder)<br>Firebase (basic)<br>🎯 Current Focus<br>🚀 Scaling StudyPrometric<br>💊 Expanding PharmaSys ERP<br>🤖 Building AI-powered SaaS apps<br>🌐 Moving toward full-stack + Next.js architecture<br>📊 GitHub Stats<br><br><br><br>Building tools that make healthcare smarter, education easier, and businesses more efficient through technology.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=numanmalik999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=numanmalik999&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=numanmalik999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=numanmalik999&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
