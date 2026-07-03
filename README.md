@@ -60,9 +60,9 @@ I am a software engineer and entrepreneur specializing in building high-performa
 
 ## 📬 Connect with Me
 
-* 🌐 Website: [studyprometric.com](https://www.studyprometric.com)
-* 💼 LinkedIn: [linkedin.com/in/numanmalik999](https://linkedin.com/in/numanmalik999) *(Update with your actual username)*
-* ✉️ Email: [numanmalik999@gmail.com](mailto:numanmalik999@gmail.com) *(Update with your preferred email)*
+* 🌐 Website: [studyprometric.com](https://www.studyprometric.com) [pharmasys.site](https://www.pharmasys.site)
+* 💼 LinkedIn: [linkedin.com/in/drmnouman](www.linkedin.com/in/drmnouman) *(Update with your actual username)*
+* ✉️ Email: [numanmalik999@gmail.com](mailto:numan_malik999@yahoo.com) *(Update with your preferred email)*
 
 ---
 
