@@ -15,7 +15,7 @@ I am a software engineer and entrepreneur specializing in building high-performa
 * **Premium Email Delivery**: Implemented privacy-focused BCC batching strategies via Resend API to handle thousands of daily notifications on the free tier.
 * **High-Performance Architecture**: Built with Astro for blazing-fast SEO performance and dynamic React SPAs for high-fidelity private user areas.
 
-### 💊 PharmaSys
+### 💊 [Pharmasys](https://www.pharmasys.site)
 *A robust, clinical-grade Pharmacy Management System designed to optimize pharmaceutical workflows, stock control, and clinical checkups.*
 
 * **Smart Inventory Management**: Real-time batch and expiry tracking, predictive stock reordering, and automated SKU classification.
